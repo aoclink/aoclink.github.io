@@ -10,7 +10,6 @@ src
 .babel.config.js
 package-lock.json
 package.json
-README.node_modules
 zExample.vue
 
 # local env files
