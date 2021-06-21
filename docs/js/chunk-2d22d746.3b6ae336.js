@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(t,e,n){"use strict";n.r(e);var o=n("7a23"),a={class:"about"},i=Object(o["f"])("h1",null,"This is an about page",-1);function c(t,e,n,c,u,r){return Object(o["o"])(),Object(o["d"])("div",a,[i])}n("d3b7");fetch("http://worldtimeapi.org/api/ip").then((function(t){return t.json()})).then((function(t){console.log((new Date).getMinutes(new Date(t.datetime))-30)}));var u={};u.render=c;e["default"]=u}}]);
-//# sourceMappingURL=chunk-2d22d746.3b6ae336.js.map
